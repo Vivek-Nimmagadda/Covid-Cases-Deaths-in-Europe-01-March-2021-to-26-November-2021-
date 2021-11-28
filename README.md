@@ -9,5 +9,7 @@ Sheet 2: This is a bubble chart of the monthly cases / deaths in Europe with the
 Sheet 3: This is a geographic representation of the spread of the disease with shades of blue representing the intensity.
 
 Important Points (Dashboard):
+
 A Cases/Deaths parameter (shown at the top-right of the dashboard) was created which dynamically filters the data based on the chosen value.
+
 Sheets 2 & 3 have an accompanying Month filter. They also show only the data of the indivudal country when a particular line is clicked in the dashboard.
